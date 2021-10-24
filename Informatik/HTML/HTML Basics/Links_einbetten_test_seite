@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+
+		<title> Links in HTML </title>
+
+</head>
+<body>
+		<h1> Links einbetten </h1>
+		<h4>
+			Hier seht ihr nun einen eingebetteten Link:<br><br>
+			<a href="https://www.youtube.com/"> YouTube</a>
+		</h4>
+		
+</body>
+</html>
